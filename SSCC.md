@@ -12,6 +12,7 @@
 #### Overview
 
 Some labels may require a special field named “SerialShippingContainerCode”, or an SSCC-18. SSCC-18s identify specific logistic units, such as parcels or pallets, so that companies are able to track and share information about that unit during transit. These codes are always 18 digits long, and divided into 5 sections. To learn more, visit the [GS1 website](/#).
+![](https://github.com/AdarshPawar29/react-form/blob/master/SSCC%20image.png)
 
 ```sps
 {
